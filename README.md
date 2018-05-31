@@ -6,8 +6,8 @@ Sitefinity MVC Client Implicit Flow Authorization is a sample MVC application, w
 ### Requirements
 
 * Sitefinity CMS license
-* .NET Framework 4.5
-* Visual Studio 2013/2015
+* .NET Framework 4.7.1
+* Visual Studio 2013/2015/2017
 * Microsoft SQL Server
 
 ### Prerequisites
